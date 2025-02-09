@@ -2,6 +2,10 @@ html {
   background:blue;
 }
 
+h1 {
+  font-family:"outfit", sans-serif;
+}
+
 .outfit-<uniquifier> {
   font-family: "Outfit", serif;
   font-optical-sizing: auto;
