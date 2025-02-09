@@ -1,1 +1,12 @@
-html {background:blue;}
+html {
+  background:blue;
+}
+
+h1 {font-family;.outfit}
+
+.outfit-<uniquifier> {
+  font-family: "Outfit", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
